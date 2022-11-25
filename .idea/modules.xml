@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Bin_packing.iml" filepath="$PROJECT_DIR$/.idea/Bin_packing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gpack/.idea/gpack.iml" filepath="$PROJECT_DIR$/gpack/.idea/gpack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rectpacker/.idea/rectpacker.iml" filepath="$PROJECT_DIR$/rectpacker/.idea/rectpacker.iml" />
     </modules>
   </component>
 </project>
